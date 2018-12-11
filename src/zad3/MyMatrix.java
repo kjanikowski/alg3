@@ -42,7 +42,7 @@ public class MyMatrix {
 				else
 					tab[] = 0;
 				
-				1=
+				
 			
 			
 		}
