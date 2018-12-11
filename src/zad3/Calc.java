@@ -12,7 +12,7 @@ public class Calc {
 	
 	public void equations() {
 		Random rand = new Random();
-		//komentarz
+		
 
 		for(int i = 0; size > i; i++) {
 			agents[i] = rand.nextInt(2)-1;
