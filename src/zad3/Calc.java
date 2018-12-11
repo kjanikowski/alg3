@@ -1,5 +1,7 @@
 package zad3;
 
+import java.util.Random;
+
 public class Calc {
 	
 	int agents[];
@@ -9,9 +11,11 @@ public class Calc {
 	
 	
 	public void equations() {
+		Random rand = new Random();
 		
+
 		for(int i = 0; size > i; i++) {
-			
+			agents[i] = rand.nextInt(2)-1;
 		}
 		
 	}
