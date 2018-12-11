@@ -2,21 +2,29 @@ package zad3;
 
 public class Calc {
 	
+	int agents[];
 	double equations[][];
 	double answ[]; 
 	int size;
 	
 	
-	public double[] jacobi() {
+	public void equations() {
 		
-		
-		
-		
-		
-		
-		return answ;
+		for(int i = 0; size > i; i++) {
+			
+		}
 		
 	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	
 	
 
